@@ -1,0 +1,408 @@
+{
+    "MYWY3ZP/A": {
+        "name": "iphone16promax",
+        "price": "44900.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "原色鈦金屬"
+    },
+    "MYWX3ZP/A": {
+        "name": "iphone16promax",
+        "price": "44900.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYWW3ZP/A": {
+        "name": "iphone16promax",
+        "price": "44900.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "白色鈦金屬"
+    },
+    "MYX73ZP/A": {
+        "name": "iphone16promax",
+        "price": "58900.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "原色鈦金屬"
+    },
+    "MYWV3ZP/A": {
+        "name": "iphone16promax",
+        "price": "44900.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "黑色鈦金屬"
+    },
+    "MYX23ZP/A": {
+        "name": "iphone16promax",
+        "price": "51900.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYX13ZP/A": {
+        "name": "iphone16promax",
+        "price": "51900.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "白色鈦金屬"
+    },
+    "MYX03ZP/A": {
+        "name": "iphone16promax",
+        "price": "51900.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "黑色鈦金屬"
+    },
+    "MYX63ZP/A": {
+        "name": "iphone16promax",
+        "price": "58900.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYX53ZP/A": {
+        "name": "iphone16promax",
+        "price": "58900.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "白色鈦金屬"
+    },
+    "MYX43ZP/A": {
+        "name": "iphone16promax",
+        "price": "58900.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "黑色鈦金屬"
+    },
+    "MYX33ZP/A": {
+        "name": "iphone16promax",
+        "price": "51900.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "原色鈦金屬"
+    },
+    "MYNG3ZP/A": {
+        "name": "iphone16pro",
+        "price": "36900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "原色鈦金屬"
+    },
+    "MYNF3ZP/A": {
+        "name": "iphone16pro",
+        "price": "36900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYNE3ZP/A": {
+        "name": "iphone16pro",
+        "price": "36900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "白色鈦金屬"
+    },
+    "MYND3ZP/A": {
+        "name": "iphone16pro",
+        "price": "36900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "黑色鈦金屬"
+    },
+    "MYNK3ZP/A": {
+        "name": "iphone16pro",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYNJ3ZP/A": {
+        "name": "iphone16pro",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "白色鈦金屬"
+    },
+    "MYNH3ZP/A": {
+        "name": "iphone16pro",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "黑色鈦金屬"
+    },
+    "MYNN3ZP/A": {
+        "name": "iphone16pro",
+        "price": "47400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "白色鈦金屬"
+    },
+    "MYNM3ZP/A": {
+        "name": "iphone16pro",
+        "price": "47400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "黑色鈦金屬"
+    },
+    "MYNL3ZP/A": {
+        "name": "iphone16pro",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "原色鈦金屬"
+    },
+    "MYNR3ZP/A": {
+        "name": "iphone16pro",
+        "price": "54400.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "黑色鈦金屬"
+    },
+    "MYNQ3ZP/A": {
+        "name": "iphone16pro",
+        "price": "47400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "原色鈦金屬"
+    },
+    "MYNP3ZP/A": {
+        "name": "iphone16pro",
+        "price": "47400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYNX3ZP/A": {
+        "name": "iphone16pro",
+        "price": "54400.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "原色鈦金屬"
+    },
+    "MYNW3ZP/A": {
+        "name": "iphone16pro",
+        "price": "54400.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "沙漠色鈦金屬"
+    },
+    "MYNT3ZP/A": {
+        "name": "iphone16pro",
+        "price": "54400.00",
+        "currency": "TWD",
+        "capacity": "1tb",
+        "color": "白色鈦金屬"
+    },
+    "MXY23ZP/A": {
+        "name": "iphone16plus",
+        "price": "36400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "湛海藍色"
+    },
+    "MXY13ZP/A": {
+        "name": "iphone16plus",
+        "price": "36400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "粉紅色"
+    },
+    "MXY53ZP/A": {
+        "name": "iphone16plus",
+        "price": "36400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "湖水綠色"
+    },
+    "MXVV3ZP/A": {
+        "name": "iphone16plus",
+        "price": "32900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "白色"
+    },
+    "MXVU3ZP/A": {
+        "name": "iphone16plus",
+        "price": "32900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "黑色"
+    },
+    "MXVY3ZP/A": {
+        "name": "iphone16plus",
+        "price": "32900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "湖水綠色"
+    },
+    "MXVX3ZP/A": {
+        "name": "iphone16plus",
+        "price": "32900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "湛海藍色"
+    },
+    "MXVW3ZP/A": {
+        "name": "iphone16plus",
+        "price": "32900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "粉紅色"
+    },
+    "MY1P3ZP/A": {
+        "name": "iphone16plus",
+        "price": "43400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "黑色"
+    },
+    "MY253ZP/A": {
+        "name": "iphone16plus",
+        "price": "43400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "粉紅色"
+    },
+    "MY1X3ZP/A": {
+        "name": "iphone16plus",
+        "price": "43400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "白色"
+    },
+    "MY2D3ZP/A": {
+        "name": "iphone16plus",
+        "price": "43400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "湛海藍色"
+    },
+    "MXWN3ZP/A": {
+        "name": "iphone16plus",
+        "price": "36400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "黑色"
+    },
+    "MY2J3ZP/A": {
+        "name": "iphone16plus",
+        "price": "43400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "湖水綠色"
+    },
+    "MXWV3ZP/A": {
+        "name": "iphone16plus",
+        "price": "36400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "白色"
+    },
+    "MYEU3ZP/A": {
+        "name": "iphone16",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "湖水綠色"
+    },
+    "MYE93ZP/A": {
+        "name": "iphone16",
+        "price": "29900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "白色"
+    },
+    "MYE73ZP/A": {
+        "name": "iphone16",
+        "price": "29900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "黑色"
+    },
+    "MYEA3ZP/A": {
+        "name": "iphone16",
+        "price": "29900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "粉紅色"
+    },
+    "MYEE3ZP/A": {
+        "name": "iphone16",
+        "price": "33400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "黑色"
+    },
+    "MYED3ZP/A": {
+        "name": "iphone16",
+        "price": "29900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "湖水綠色"
+    },
+    "MYEC3ZP/A": {
+        "name": "iphone16",
+        "price": "29900.00",
+        "currency": "TWD",
+        "capacity": "128gb",
+        "color": "湛海藍色"
+    },
+    "MYEH3ZP/A": {
+        "name": "iphone16",
+        "price": "33400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "湛海藍色"
+    },
+    "MYEG3ZP/A": {
+        "name": "iphone16",
+        "price": "33400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "粉紅色"
+    },
+    "MYEF3ZP/A": {
+        "name": "iphone16",
+        "price": "33400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "白色"
+    },
+    "MYEK3ZP/A": {
+        "name": "iphone16",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "黑色"
+    },
+    "MYEJ3ZP/A": {
+        "name": "iphone16",
+        "price": "33400.00",
+        "currency": "TWD",
+        "capacity": "256gb",
+        "color": "湖水綠色"
+    },
+    "MYER3ZP/A": {
+        "name": "iphone16",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "湛海藍色"
+    },
+    "MYEQ3ZP/A": {
+        "name": "iphone16",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "粉紅色"
+    },
+    "MYEP3ZP/A": {
+        "name": "iphone16",
+        "price": "40400.00",
+        "currency": "TWD",
+        "capacity": "512gb",
+        "color": "白色"
+    }
+}
