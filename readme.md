@@ -36,33 +36,37 @@ pip install -r requirements.txt
 
 ## 使用手冊
 
-1. 啟動應用程式
-終端中運行以下命令啟動應用程式：
+### 1. 啟動應用程式
 
+終端中運行以下命令啟動應用程式：
 ```bash
 cd apple-store-notifyer
 python main.py
 ```
-2. 設置 Line Notify Token
+### 2. 設置 Line Notify Token
+
 在主頁面中，找到「Line Notify Token」的輸入框，輸入您的 Line Notify Token。您可以通過 Line Notify 官方網站 獲取 Token。
 
 ([使用教學參考連結](https://greentracks.app/index.php/2023/01/29/line-notify-access-token/))
 
 !!注意!! Line Notify 於 2025 年3 月 31 日結束本服務。後續需要其他替代方案。
 
-3. 選擇 iPhone 機型
+### 3. 選擇 iPhone 機型
+
 在「請選擇機型」部分，選擇您想要監控的 iPhone 機型（如 iPhone 16）。選擇後，相應的型號列表將顯示在下方的表格中。
 
-4. 選擇型號
+### 4. 選擇型號
+
 在型號列表中，選擇您想要監控的具體 iPhone 型號。
 
-5. 開始監控
+### 5. 開始監控
+
 選擇完型號後，點擊「開始監控」按鈕。此時，所有設置按鈕和輸入框將被禁用，程式將自動跳轉到「監控」頁面，並開始定時檢查庫存狀態。
 
-6. 查看監控日誌
+### 6. 查看監控日誌
 在「監控」頁面，您可以實時查看程式的運行日誌，包括現貨狀態更新和通知發送情況。
 
-7. 停止程式
+### 7. 停止程式
 若要停止監控，請關閉應用程式窗口。
 
 ## 未來計畫
