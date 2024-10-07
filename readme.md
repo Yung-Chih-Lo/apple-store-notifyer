@@ -74,5 +74,5 @@ python main.py
 歡迎提交 issue 或 pull request 來改進此專案。如果您有任何建議或發現錯誤，請隨時聯繫我。
 
 ## 授權
-此專案使用 GPL 授權。詳情請參見 LICENSE 文件。
+此專案使用 AGPL 授權。詳情請參見 LICENSE 文件。
 
