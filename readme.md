@@ -69,6 +69,9 @@ python main.py
 ### 7. 停止程式
 若要停止監控，請關閉應用程式窗口。
 
+## Windows
+我有添加一個.exe版本可以使用，使用 pyinstaller 打包，請查看旁邊 release ！
+
 ## 未來計畫
 1. 添加更多產品監控
 2. 跨產品監控
@@ -79,4 +82,3 @@ python main.py
 
 ## 授權
 此專案使用 AGPL 授權。詳情請參見 LICENSE 文件。
-
